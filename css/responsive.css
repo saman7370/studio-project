@@ -1,0 +1,130 @@
+@media screen and (max-width : 992px) {
+
+    #home{
+        height: 80vh;}
+
+    #home .home-content{
+        height: 80vh;}
+
+    #home .home-content h1{
+        font-size: 35px;}
+
+    #home .home-content p{
+        font-size: 25px;}
+
+    nav .brand-logo{
+        font-size: 20px;}
+
+    #home .scroll-down img{
+        width: 25px;}
+
+    #about .row .about-content h4{
+        font-size: 22px;}
+
+    #about .row .about-content p{
+        font-size: 14px;}
+
+    #about .about-item h5{
+        font-size: 22px;}
+
+    #about .about-item h6{
+        font-size: 14px;}
+
+    #about button{
+        font-size: 15px;
+        margin-bottom: 25px;}
+
+    #service h4{
+        font-size: 22px;}
+
+    #service .row .service-item span p{
+        font-size: 16px;}
+
+    #best-work h4{
+        font-size: 22px;}
+
+    .light-box .img-box{
+        height: 65vh;}
+
+    #contact .contact-img .title h4{
+        font-size: 22px;}
+
+    footer h5{
+        font-size: 20px;}
+
+    footer p{
+        font-size: 10px;}
+}
+
+@media screen and (max-width : 576px){
+
+    #home{
+        height: 57vh;}
+
+    #home .home-content{
+        height: 57vh;}
+
+    #home .home-content h1{
+        font-size: 20px;
+        letter-spacing: 3px;}
+
+    #home .home-content p{
+        font-size: 15px;}
+
+    #home .scroll-down img{
+        width: 20px;}
+
+    #about .row .about-content h4{
+        font-size: 18px;}
+
+    #about .row .about-content p{
+        font-size: 12px;}
+
+    #about .about-item h5{
+        font-size: 18px;}
+
+    #about .about-item h6{
+        font-size: 12px;}
+
+    #about button{
+        font-size: 13px;}
+
+    #service{
+        padding: 20px 0;}
+
+    #service h4{
+        font-size: 18px;}
+        
+    #service .row .service-item span p{
+        font-size: 14px;}
+
+    #best-work h4{
+        font-size: 18px;}
+
+    .light-box .img-box{
+        height: 55vh;}
+
+    #contact .contact-img .title h4{
+        font-size: 18px;}
+
+    .row .col.s6{
+        width: 100%;}
+
+    #contact .btn-button button{
+        padding: 8px 45px;}
+
+    #contact .social ul li a svg{
+        font-size: 20px;}
+
+    #contact .contact-desc{
+        padding: 0 30px;}
+
+    footer h5{
+        font-size: 16px;}
+
+    footer p{
+        font-size: 9px;}
+    }
+
+
+
